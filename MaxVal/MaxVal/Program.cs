@@ -10,6 +10,6 @@ class MaxVal
             Console.WriteLine("Invalid number!");  
             num=int.Parse(Console.ReadLine());
         }
-        Console.WriteLine("The number is: {0}",num); 
+        Console.WriteLine("The числото is: {0}",num); 
     }
 }
