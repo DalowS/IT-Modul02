@@ -1,0 +1,15 @@
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\bin\Debug\net6.0\MaxVal.exe
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\bin\Debug\net6.0\MaxVal.deps.json
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\bin\Debug\net6.0\MaxVal.runtimeconfig.json
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\bin\Debug\net6.0\MaxVal.dll
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\bin\Debug\net6.0\MaxVal.pdb
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\obj\Debug\net6.0\MaxVal.csproj.AssemblyReference.cache
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\obj\Debug\net6.0\MaxVal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\obj\Debug\net6.0\MaxVal.AssemblyInfoInputs.cache
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\obj\Debug\net6.0\MaxVal.AssemblyInfo.cs
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\obj\Debug\net6.0\MaxVal.csproj.CoreCompileInputs.cache
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\obj\Debug\net6.0\MaxVal.dll
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\obj\Debug\net6.0\refint\MaxVal.dll
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\obj\Debug\net6.0\MaxVal.pdb
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\obj\Debug\net6.0\MaxVal.genruntimeconfig.cache
+C:\Users\Dalov\source\repos\MaxVal\MaxVal\obj\Debug\net6.0\ref\MaxVal.dll
